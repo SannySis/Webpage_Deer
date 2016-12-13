@@ -1,5 +1,11 @@
 title{
  font-family: Century Gothic;
  font-size:100px; 
- color: #DCDCDC;
+ color: white;
+ background-color: #696969;
+}
+li{
+ font-family: Century Gothic;
+ color: white;
+ background-color: #696969; 
 }
