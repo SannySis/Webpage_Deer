@@ -12,4 +12,12 @@ li{
 }
 */
 
-<body onunload="window.alert('Good by')">
+body {
+	  background-color: #FFCC66;
+	}
+
+	h1 {
+	  color: #990000;
+	  background-color: #FC9804;
+	}
+	
