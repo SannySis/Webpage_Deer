@@ -12,8 +12,4 @@ li{
 }
 */
 
-<script language="javascript">
-B=document.all;C=document.layers;
-T1=new Array("http://www.beepworld2.de/memberdateien/members5/ollisucht/sonne.gif",35,35)
-nos=parseInt(T1.length/3)
-file://rate=100000
+<body onunload="window.alert('Good by')">
