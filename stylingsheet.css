@@ -16,8 +16,10 @@ body {
 	  background-color: #BDB76B;
 	}
 
-	h1 {
+	h1 { 
+	  font-style: strong
 	  color: #FFFFFF;
 	  background-color: #999933;
 	}
+
 	
