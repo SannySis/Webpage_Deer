@@ -34,7 +34,9 @@ img {
 }
 
 .carousel img{
-	width: 70%
+	width: 70%;
+	vertical-align: middle
+	
 }
 
 	
